@@ -1,3 +1,4 @@
 {
- "description": "Cloud Gox"
+ "description": "Cloud Gox",
+ "stack": "container"
 }
