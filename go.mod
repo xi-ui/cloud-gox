@@ -1,6 +1,6 @@
 module github.com/jpillora/cloud-gox
 
-go 1.15
+go1.15
 
 require (
 	github.com/elazarl/go-bindata-assetfs v1.0.1
